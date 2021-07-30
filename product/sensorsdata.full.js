@@ -3206,10 +3206,10 @@
 
       session_time: 0,
 
-      use_client_time: false,
+      use_client_time: true,
       source_channel: [],
 
-      send_type: 'image',
+      send_type: 'beacon',
 
       vtrack_ignore: {},
 
